@@ -1,0 +1,6 @@
+pybase64
+streamlit
+plotly
+pillow
+numpy
+pandas
